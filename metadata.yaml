@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '9263'
     url: http://www.gutenberg.org/2009/agents/9263
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20381#The-Village-by-the-River
 gutenberg_issued: '2007-01-16'
 gutenberg_type: Text
 identifiers:
